@@ -1,0 +1,3 @@
+[submodule "adtrackQuery"]
+	path = adtrackQuery
+	url = https://github.com/craklyn/adtrackQuery
